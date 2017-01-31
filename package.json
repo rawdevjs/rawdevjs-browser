@@ -6,6 +6,7 @@
   "scripts": {
     "build": "node build.js",
     "lint": "standard",
+    "postinstall": "npm run build",
     "test": "npm run lint"
   },
   "repository": {
