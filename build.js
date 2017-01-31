@@ -6,5 +6,5 @@ if (!test('-d', '.build')) {
   mkdir('.build')
 }
 
-exec('browserify index.js -d > .build/index.js')
+exec('browserify index.js -d > .build/rawdevjs.js')
 cp('-r', 'public/*', '.build')
