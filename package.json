@@ -34,7 +34,7 @@
     "rawdevjs-filter-reduce-bit-depth": "^1.0.0",
     "rawdevjs-filter-reduce-by-2": "^1.0.0",
     "rawdevjs-filter-rgb-lookup-table": "^1.0.0",
-    "shelljs": "^0.7.5"
+    "shelljs": "^0.8.5"
   },
   "devDependencies": {
     "standard": "^8.6.0"
